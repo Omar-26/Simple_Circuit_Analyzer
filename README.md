@@ -3,3 +3,8 @@
 ![image](https://github.com/Omar-26/ASU_Electrical_Sophomore_Project/assets/110625103/982d97b6-e971-48b8-964e-179f6b3f0c3c)
 Capstone Project for ASUFE Electrical Sophomore
 ## What's included in this repo ?
++ Project progress (ASUFE_Sophomore CSE131s Capstone project)
++ 📂 Source files
++ 📃 PDFs including:
+  + Tasks Brief  📑
+  + My Tasks Documentation
