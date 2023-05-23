@@ -10,17 +10,7 @@
   + Tasks Brief  📑
   + My Tasks Documentation
 
-## My Code Forces Handle 👇:
-
-
-  <p align="center"> <a href="https://codeforces.com/profile/Omar001">
-         <img alt="Omar001" src="https://userpic.codeforces.org/3119163/title/a806cce4bb342768.jpg"
-         width="150" > </p>
-</a>
-<p align="center" >
-    <b>==== <a href="https://codeforces.com/profile/Omar001"> Omar001</a> ====</b>
-      </p>
-<h3 align="left">Connect with me</h3>
+## <h2 align="left">Connect with me</h2>
 click the icon to contact 👆 :
 <p align="center">
 <a href="https://www.linkedin.com/in/omar-ashraf01" target="blank"><img align="center" src="https://github.com/Omar-26/Icons/blob/main/linkedin.png?raw=true" alt="Linkedin" height="50" width="50" /></a>
