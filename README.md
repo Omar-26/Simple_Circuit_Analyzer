@@ -17,5 +17,5 @@ click the icon to contact 👆 :
 <a href="https://twitter.com/omarash78893600" target="blank"><img align="center" src="https://github.com/Omar-26/Icons/blob/main/twitter.png?raw=true" alt="Twitter" height="50" width="50" /></a>
 <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJTJFPGkpqJPHXRwDVwCpHzSDvLLKdnlLzzDSLTfWLkxRBqnvKbrFZZLwNgSrcnWSXxsxRL" target="blank"><img align="center" src="https://github.com/Omar-26/Icons/blob/main/gmail.png?raw=true" alt="Gmail" height="61" width="52" /></a>
 <a href="https://www.facebook.com/ommaar.ashrraaf" target="blank"><img align="center" src="https://github.com/Omar-26/Icons/blob/main/facebook.png?raw=true" alt="Facebook" height="50" width="50" /></a>
-<a href="https://www.instagram.com/ommaar_ashrraaf/" target="blank"><img align="center" src="https://github.com/Omar-26/Icons/blob/main/instagram%20(1).png?raw=true" alt="Instagram" height="52" width="52" /></a>
+<a href="https://www.instagram.com/ommaar_ashrraaf/" target="blank"><img align="center" src="https://github.com/Omar-26/Icons/blob/main/instagram.png?raw=true" alt="Instagram" height="52" width="52" /></a>
 </p>
